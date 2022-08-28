@@ -8,6 +8,4 @@
 
 <br>
 
-基址教程: <a href="https://github.com/lyshark/Counter-Strike-Cheat/blob/main/FPS%E6%B8%B8%E6%88%8F%E6%89%BE%E5%9F%BA%E5%9D%80%E6%95%99%E7%A8%8B.pdf">FPS基址教程</a>
-
-首发地址: https://www.cnblogs.com/LyShark/p/11620244.html
+基址教程: <a href="https://github.com/lyshark/Counter-Strike-Cheat/blob/main/FPS%E6%B8%B8%E6%88%8F%E6%89%BE%E5%9F%BA%E5%9D%80%E6%95%99%E7%A8%8B.pdf">FPS游戏基址教程</a>
