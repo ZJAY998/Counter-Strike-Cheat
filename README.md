@@ -236,6 +236,6 @@
 
 ![](/image/1379525-20191007181005697-601408273.png)
 
-<br><br>
+<br>
 
 GitHub 项目地址: https://github.com/lyshark/Counter-Strike-Cheat
