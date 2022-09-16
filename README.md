@@ -12,7 +12,7 @@
 
 在生化模式下的飞天功能，效果图如下：
 
-![image](https://user-images.githubusercontent.com/52789403/190648488-c112c8f4-2dac-458c-9219-33405ca66e0a.png)
+![image](https://user-images.githubusercontent.com/52789403/190657752-bd6b0a48-ecf7-4001-8361-02fbb2e0e02e.png)
 
 内部D3D劫持透视在团队模式下，效果图如下：
 
