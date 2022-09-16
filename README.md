@@ -10,6 +10,10 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190644699-615c9129-cfe4-4d96-b1c4-5cfd93b5dbb3.png)
 
+在生化模式下的飞天功能，效果图如下：
+
+![image](https://user-images.githubusercontent.com/52789403/190648488-c112c8f4-2dac-458c-9219-33405ca66e0a.png)
+
 内部D3D劫持透视在团队模式下，效果图如下：
 
 ![image](https://user-images.githubusercontent.com/52789403/190646423-beda566c-2134-43e7-ba19-539a5212dfd9.png)
