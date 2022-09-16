@@ -10,9 +10,13 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190644699-615c9129-cfe4-4d96-b1c4-5cfd93b5dbb3.png)
 
-在生化模式下的飞天功能，效果图如下：
+在团队模式下的飞天功能，效果图如下：
 
 ![image](https://user-images.githubusercontent.com/52789403/190657752-bd6b0a48-ecf7-4001-8361-02fbb2e0e02e.png)
+
+在团队模式下的瞬移功能，效果图如下：
+
+![image](https://user-images.githubusercontent.com/52789403/190657965-d641a07d-d444-4252-96cf-29005e0f7d9c.png)
 
 内部D3D劫持透视在团队模式下，效果图如下：
 
