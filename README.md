@@ -10,11 +10,6 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190644699-615c9129-cfe4-4d96-b1c4-5cfd93b5dbb3.png)
 
-
-![image](https://user-images.githubusercontent.com/52789403/190645556-f876f2b3-3f6f-4ca9-a2d6-54c7726eb47c.png)
-
-
-
 方框透视的原理是通过读取游戏中已知坐标数据，并使用一定算法将自己与敌人之间的距离计算出来，结合`GDI绘图`函数在窗体上直接绘制图形，直到现在这种外挂依然具有极强的生命力，原因就是其比较通用，算法固定并能够应用于大部分的FPS游戏中。
 
 <br>
