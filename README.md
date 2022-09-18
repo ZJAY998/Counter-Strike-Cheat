@@ -18,6 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190884574-41e3e23b-fbee-4069-bf6a-140d0f0728d8.png)
 
+![image](https://user-images.githubusercontent.com/52789403/190884744-af05a212-718e-41d9-8d59-e27ed6b74dae.png)
+
+
 在团队模式下的飞天辅助，效果图如下：
 
 ![image](https://user-images.githubusercontent.com/52789403/190657752-bd6b0a48-ecf7-4001-8361-02fbb2e0e02e.png)
