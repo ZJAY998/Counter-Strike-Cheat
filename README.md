@@ -10,6 +10,10 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190644699-615c9129-cfe4-4d96-b1c4-5cfd93b5dbb3.png)
 
+外部D3D透视在老版生化模式下，效果图如下：
+
+![image](https://user-images.githubusercontent.com/52789403/190884474-6be3fe4d-4cbd-43a6-beaa-0f310f747076.png)
+
 在团队模式下的飞天功能，效果图如下：
 
 ![image](https://user-images.githubusercontent.com/52789403/190657752-bd6b0a48-ecf7-4001-8361-02fbb2e0e02e.png)
