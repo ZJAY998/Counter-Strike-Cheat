@@ -26,13 +26,13 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190657965-d641a07d-d444-4252-96cf-29005e0f7d9c.png)
 
+外部D3D透视在打过CSSO起源攻势模组模式下，效果图如下：
+
+![image](https://user-images.githubusercontent.com/52789403/190888029-db8b5718-d2da-411f-983b-137dd8a9beaa.png)
+
 内部D3D劫持透视在原版团队模式下，效果图如下：
 
 ![image](https://user-images.githubusercontent.com/52789403/190886465-519c12e7-966e-40cc-9dab-c337994c2341.png)
-
-
-
-
 
 <br>
 
