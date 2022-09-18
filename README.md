@@ -20,9 +20,7 @@
 
 内部D3D劫持透视在团队模式下，效果图如下：
 
-![image](https://user-images.githubusercontent.com/52789403/190646423-beda566c-2134-43e7-ba19-539a5212dfd9.png)
-
-方框透视的原理是通过读取游戏中已知坐标数据，并使用一定算法将自己与敌人之间的距离计算出来，结合`GDI绘图`函数在窗体上直接绘制图形，直到现在这种外挂依然具有极强的生命力，原因就是其比较通用，算法固定并能够应用于大部分的FPS游戏中。
+![image](https://user-images.githubusercontent.com/52789403/190882583-ec75d907-f0fe-4332-99d3-7ed70c7bd48f.png)
 
 <br>
 
