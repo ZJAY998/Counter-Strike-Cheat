@@ -14,6 +14,8 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190884474-6be3fe4d-4cbd-43a6-beaa-0f310f747076.png)
 
+绘制敌我区别，只绘制敌人，可动态变换。
+
 ![image](https://user-images.githubusercontent.com/52789403/190884574-41e3e23b-fbee-4069-bf6a-140d0f0728d8.png)
 
 在团队模式下的飞天辅助，效果图如下：
