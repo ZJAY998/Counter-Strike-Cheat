@@ -18,6 +18,10 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190884574-41e3e23b-fbee-4069-bf6a-140d0f0728d8.png)
 
+外部D3D透视在打过CSSO起源攻势模组模式下，效果图如下：
+
+![image](https://user-images.githubusercontent.com/52789403/190888029-db8b5718-d2da-411f-983b-137dd8a9beaa.png)
+
 在团队模式下的飞天辅助，效果图如下：
 
 ![image](https://user-images.githubusercontent.com/52789403/190657752-bd6b0a48-ecf7-4001-8361-02fbb2e0e02e.png)
@@ -25,10 +29,6 @@
 在团队模式下的瞬移辅助，效果图如下：
 
 ![image](https://user-images.githubusercontent.com/52789403/190657965-d641a07d-d444-4252-96cf-29005e0f7d9c.png)
-
-外部D3D透视在打过CSSO起源攻势模组模式下，效果图如下：
-
-![image](https://user-images.githubusercontent.com/52789403/190888029-db8b5718-d2da-411f-983b-137dd8a9beaa.png)
 
 内部D3D劫持透视在原版团队模式下，效果图如下：
 
