@@ -26,9 +26,13 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190657965-d641a07d-d444-4252-96cf-29005e0f7d9c.png)
 
-内部D3D劫持透视在团队模式下，效果图如下：
+内部D3D劫持透视在原版团队模式下，效果图如下：
 
-![image](https://user-images.githubusercontent.com/52789403/190882583-ec75d907-f0fe-4332-99d3-7ed70c7bd48f.png)
+![image](https://user-images.githubusercontent.com/52789403/190886465-519c12e7-966e-40cc-9dab-c337994c2341.png)
+
+
+
+
 
 <br>
 
