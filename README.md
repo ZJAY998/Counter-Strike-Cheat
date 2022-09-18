@@ -14,11 +14,13 @@
 
 ![image](https://user-images.githubusercontent.com/52789403/190884474-6be3fe4d-4cbd-43a6-beaa-0f310f747076.png)
 
-在团队模式下的飞天功能，效果图如下：
+![image](https://user-images.githubusercontent.com/52789403/190884574-41e3e23b-fbee-4069-bf6a-140d0f0728d8.png)
+
+在团队模式下的飞天辅助，效果图如下：
 
 ![image](https://user-images.githubusercontent.com/52789403/190657752-bd6b0a48-ecf7-4001-8361-02fbb2e0e02e.png)
 
-在团队模式下的瞬移功能，效果图如下：
+在团队模式下的瞬移辅助，效果图如下：
 
 ![image](https://user-images.githubusercontent.com/52789403/190657965-d641a07d-d444-4252-96cf-29005e0f7d9c.png)
 
